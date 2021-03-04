@@ -1,0 +1,4 @@
+﻿  MsgBox.cpp
+C:\Users\Alexandr\source\repos\lkc++\lkc++\Variables.h(7,6): warning C4091: static : пропускается слева от "Variable::Variables", когда ни одна переменная не объявлена
+  MsgBox.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lkc++.vcxproj -> C:\Users\Alexandr\source\repos\lkc++\Debug\lkc++.exe

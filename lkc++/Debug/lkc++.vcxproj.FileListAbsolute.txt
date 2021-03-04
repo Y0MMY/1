@@ -1,0 +1,6 @@
+C:\Users\Alexandr\source\repos\lkc++\lkc++\Debug\lkc.MsgBox.resources
+C:\Users\Alexandr\source\repos\lkc++\lkc++\Debug\lkc.MyForm.resources
+C:\Users\Alexandr\source\repos\lkc++\lkc++\Debug\lkc.Resources.resources
+C:\Users\Alexandr\source\repos\lkc++\lkc++\Debug\lkc.MyForm.asa-TZ.resources
+C:\Users\Alexandr\source\repos\lkc++\lkc++\Debug\lkc++.vcxproj.GenerateResource.cache
+C:\Users\Alexandr\source\repos\lkc++\lkc++\Debug\lkc++.vcxprojAssemblyReference.cache
